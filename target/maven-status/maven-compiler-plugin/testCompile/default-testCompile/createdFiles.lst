@@ -1,0 +1,6 @@
+com\bestbuy\productinfo\CategoryCURDTest.class
+com\bestbuy\productinfo\ServiceCURDTest.class
+com\bestbuy\testbase\TestBase.class
+com\bestbuy\productinfo\StoresCURDTest.class
+com\bestbuy\productinfo\ProductCURDTest.class
+resources\Test.class
